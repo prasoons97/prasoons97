@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **prasoons97/prasoons97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Prasoon  
+
+🌱 I’m learning frontend development (HTML, CSS, JavaScript, React) and building projects to grow my skills.  
+🎯 My near-term goal is to secure a frontend internship in the next 6–12 months.  
+🔬 Background in biology with a strong passion for microbiology — bringing analytical skills and problem-solving mindset into tech.  
+💻 Love crafting intuitive, simple, and visually appealing user experiences.  
+💬 Ask me about my career switch journey, web development learning path, or combining science with technology.   
+😄 Pronouns: She/Her/Hers
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/prasoons97/)
