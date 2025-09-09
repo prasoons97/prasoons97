@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Prasoon  
+👋 Hi, I’m Prasoon
 
 🌱 I’m learning frontend development (HTML, CSS, JavaScript, React) and building projects to grow my skills.  
 🎯 My near-term goal is to secure a frontend internship in the next 6–12 months.  
 🔬 Background in biology with a strong passion for microbiology — bringing analytical skills and problem-solving mindset into tech.  
 💻 Love crafting intuitive, simple, and visually appealing user experiences.  
-💬 Ask me about my career switch journey, web development learning path, or combining science with technology.   
-😄 Pronouns: She/Her/Hers
-📫 Reach me at [LinkedIn](https://www.linkedin.com/in/prasoons97/)
+💬 Ask me about my career switch journey, web development learning path, or combining science with technology.  
+😄 Pronouns: She/Her/Hers  
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/prasoons97)
